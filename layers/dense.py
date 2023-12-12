@@ -1,5 +1,6 @@
 import numpy as np
 
+
 class Dense:
   # Layer initialization
   def __init__(self, n_inputs, n_neurons):
