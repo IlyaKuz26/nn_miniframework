@@ -1,6 +1,6 @@
 import numpy as np
 
-from loss import Loss
+from loss_functions.loss import Loss
 
 
 class CategoricalCrossentropy(Loss):
